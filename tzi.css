@@ -1,0 +1,41 @@
+body{
+    height: 100%;
+    margin: 20px;
+    text-align:center;
+    width: 100%;
+}
+h1{
+    font-family:Palatino, 'Palatino Linotype', serif;
+    color:#C884E2;
+    font-size: 32px;
+    
+}
+h2 {
+    font-family:Palatino, 'Palatino Linotype', serif;
+    color:#462055;
+    font-size: 22px;
+    
+}
+p{
+    font-family:Palatino, 'Palatino Linotype', serif;
+    color:#200729;
+    font-size: 14px;  
+}
+
+#main{
+    font-family:Palatino, 'Palatino Linotype', serif;
+    color:#C884E2;
+    font-size: 32px;
+    padding: 250px 0 ;
+    margin: center;
+    background-image: image(ajhfsd.jpeg);
+    background-size: cover;
+    
+    
+}
+#education{
+    font-family: serif, 'Palatino Linotype';
+    font-size: 22px;
+    color: black;
+    
+}
